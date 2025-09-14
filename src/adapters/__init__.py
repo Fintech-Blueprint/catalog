@@ -1,0 +1,1 @@
+class Adapter:\n    pass\n
