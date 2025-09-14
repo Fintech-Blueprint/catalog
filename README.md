@@ -1,1 +1,1 @@
-# catalog
+# catalog\n\nService Catalog and background workers (metadata, jobs).\n
