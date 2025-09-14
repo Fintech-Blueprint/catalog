@@ -1,0 +1,1 @@
+class CatalogManager:\n    pass\n
